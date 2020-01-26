@@ -1,6 +1,6 @@
 const MVLoaderBase = require('mvloader/src/mvloaderbase');
 
-class MVLBlankHandler extends MVLoaderBase {
+class MVLExcelController extends MVLoaderBase {
 
     constructor (...config) {
         super(...config);
@@ -8,4 +8,4 @@ class MVLBlankHandler extends MVLoaderBase {
 
 }
 
-module.exports = MVLBlankHandler;
+module.exports = MVLExcelController;
