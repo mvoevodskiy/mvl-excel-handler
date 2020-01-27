@@ -8,7 +8,8 @@
   },
   "dependencies": {
     "mvloader": "git+https://github.com/mvoevodskiy/mvloader.git",
-    "mvtools": "git+https://github.com/mvoevodskiy/mvtools.git"
+    "mvtools": "git+https://github.com/mvoevodskiy/mvtools.git",
+    "xlsx": "^0.15.4"
   },
   "devDependencies": {},
   "author": "mvoevodskiy",
